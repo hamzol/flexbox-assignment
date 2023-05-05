@@ -48,3 +48,28 @@ a:hover{
     color: beige;
     text-shadow: 30px;
 }
+.commentsection{
+    border-color: solid black;
+    background-color: blue;
+    border-radius: 40px;
+    text-align: center;
+    color:rgb(187, 6, 15);
+    font-weight: 40px;
+
+}
+form{
+    margin-top: 5%;
+    border: 20px;
+    text-align: left
+}
+h3{
+    margin-top: 20%;
+    margin-bottom: 0%;
+}
+.footer{
+    padding: 20px;
+    text-align: center;
+    background: #0bd15e;
+    margin-top: 20px;
+  
+}
